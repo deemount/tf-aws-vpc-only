@@ -1,6 +1,6 @@
 # Mastering Terraform, Part 1
 
-This is a documentation of my journey through the broad field of "Infrastructure as a Code (IaaC)". Starting with Terraform, I am creating various examples to help me in my daily workflow
+This is a documentation of my journey through the broad field of "Infrastructure as Code (IaC)". Starting with Terraform, I am creating various examples to help me in my daily workflow
 
 ## Amazon Web Service (AWS) Virtual Private Cloud (VPC) only
 
