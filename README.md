@@ -56,5 +56,11 @@ terraform apply "tflpan"
 Destroying
 
 ```bash
-terraform destroy
+terraform destroy -out="destroy.tfplan"
+terraform apply destroy.tfplan
 ```
+
+## Further Links
+
++ [Terraform by HashiCorp](https://www.terraform.io/)
++ [Einstieg in Infrastructure as Code (IaC) mit Terraform und AWS](https://salvatoregonda.medium.com/einstieg-in-infrastructure-as-a-code-mit-terraform-und-aws-14172a918373)
